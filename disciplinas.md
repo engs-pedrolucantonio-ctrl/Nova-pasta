@@ -13,4 +13,9 @@
 ## Fundamentos para Eng. Soft.
 
 - Prof. Dionata Inhoato
-- Programação 
+- Programação já no VSCODE.
+
+## Lógica da Programação
+
+- Prof. Adriana "Loli"
+- Parte teórica da Lógica tanto na programação quanto na matemática.
